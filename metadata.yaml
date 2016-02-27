@@ -1,0 +1,31 @@
+_repo: Henry-IV-Part-2_2252
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Powerful rebels are mustering their forces to topple the aging King Henry
+  IV from his throne. Their success seems assured because the dying king cannot depend
+  upon his son and heir Prince Hal. Instead, King Henry relies on the aid of the latest
+  war hero Sir John Falstaff...and the kingdom is soon in for a big surprise.
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Henry IV, King of England, 1367-1413 -- Drama'
+- !lcsh 'Historical drama'
+- !lcsh 'Great Britain -- History -- Henry IV, 1399-1413 -- Drama'
+title: Henry IV, Part 2
+url: http://www.gutenberg.org/ebooks/2252
