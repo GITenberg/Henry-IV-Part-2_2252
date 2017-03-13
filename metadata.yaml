@@ -1,5 +1,8 @@
 _repo: Henry-IV-Part-2_2252
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -15,6 +18,8 @@ description: Powerful rebels are mustering their forces to topple the aging King
   IV from his throne. Their success seems assured because the dying king cannot depend
   upon his son and heir Prince Hal. Instead, King Henry relies on the aid of the latest
   war hero Sir John Falstaff...and the kingdom is soon in for a big surprise.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2252#Henry-IV-Part-2
 gutenberg_issued: '2000-07-01'
 gutenberg_type: Text
 identifiers:
